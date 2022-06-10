@@ -51,7 +51,7 @@ col-sm-8{
 footer{
     height: 150px;
     width: 100%;
-    background: darkgreen;
+    background: rgb(36, 33, 240);
     color: blue;
     text-align: center;
 
@@ -73,3 +73,12 @@ footer i{
     animation-fill-mode: unset;
 }
 
+#experiencialaboral
+.h2 {
+    column-rule-color: aquamarine;
+    
+}
+
+*contacto{
+   background-color: beige;
+}
